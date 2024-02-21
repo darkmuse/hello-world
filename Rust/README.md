@@ -10,4 +10,4 @@ cd hello-rust
 cargo run
 ```
 
-https://github.com/darkmuse/hello-world/blob/7502d24eaebd01f75ccea0ece5de5816db96dd6d/Rust/hello-rust/src/main.rs#L1-L17
+https://github.com/darkmuse/hello-world/blob/7502d24eaebd01f75ccea0ece5de5816db96dd6d/Rust/hello-rust/src/main.rs#L5-L17
