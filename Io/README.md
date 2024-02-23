@@ -4,7 +4,7 @@ He was trying to learn how languages worked to help Dru Nelson, with his languag
 https://iolanguage.org/
 
 # Run
-If you're using OSX you can simply brew install io. For any other OS you will need to build from source.
+If you're using OSX you can simply ```brew install io```. For any other OS you will need to build from source.
 Running is then a simple command
 ```bash
 io HelloWorld.io
