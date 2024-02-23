@@ -1,7 +1,8 @@
 # Io 
-Io is a dynamic prototype-based programming language created by Steve Dekorte in 2002.
-He was trying to learn how languages worked to help Dru Nelson, with his language, Cel. 
 https://iolanguage.org/
+
+Io is a dynamic prototype-based programming language created by Steve Dekorte in 2002.
+He was trying to learn how languages worked to help [Dru Nelson, with his language, Cel](https://github.com/drudru/cel). 
 
 # Run
 If you're using OSX you can simply ```brew install io```. For any other OS you will need to build from source.
